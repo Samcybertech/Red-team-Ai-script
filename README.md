@@ -1,10 +1,6 @@
-### . redteam-ai-scripts  
+### redteam-ai-scripts  
 
 https://github.com › threatexpress › red-team-scripts
-
-
-```markdown
-# RedTeam-AI-Scripts
 
 A collection of Python and Bash scripts that leverage Large Language Models (LLMs) for red team automation.
 
